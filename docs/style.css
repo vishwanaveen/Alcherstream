@@ -60,7 +60,7 @@ input {
     position: relative;
 }
 .btn-1:hover{
-    background: #2b2bff;
+    background: black;
     transition: display 5s;
 }
 .btn-1:not(:hover) .hide {
