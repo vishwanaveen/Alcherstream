@@ -146,7 +146,7 @@ footer {
   .social-circle li a {
     display: inline-block;
     position: relative;
-    margin: 0 auto 0 auto;
+   
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
@@ -157,7 +157,7 @@ footer {
   }
   
   .social-circle li i {
-    margin: 0;
+    
     line-height: 30px;
     text-align: center;
   }
