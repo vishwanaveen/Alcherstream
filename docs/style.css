@@ -50,7 +50,7 @@ input {
 .btn-1{
     font-family: Hack, monospace;
     background: #0F0F6D;
-    color: #ffffff;
+    color: black;
     cursor: pointer;
     font-size: 3vw;
     padding: 1.5rem;
